@@ -22,9 +22,6 @@ This repository contains the source code for FDA-8-Stream, a real-time predictiv
 
 The pipeline is architected as a decoupled, event-driven system with Apache Kafka at its core. Producers ingest data from external sources, which is then processed in parallel by a suite of specialized analytical consumers. The final insights are delivered to a dashboard and Slack.
 
-<p align="center">
-  <img src="https://i.imgur.com/Gj3jX2m.png" alt="System Architecture Diagram" width="800"/>
-</p>
 
 <details>
 <summary>Click to view Mermaid Code for Architecture Diagram</summary>
