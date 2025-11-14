@@ -1,7 +1,5 @@
 # **FDA-8-Stream: A Real-Time M&A Prediction Pipeline**
 
-**Group 25 | Ebin Royce, Rishab Bohra, Cecily Ambooken, Veerathu Sri Sindhu**
-
 This repository contains the source code for FDA-8-Stream, a real-time predictive analytics system designed to identify companies with a high likelihood of engaging in Mergers & Acquisitions (M&A). The system leverages a modern streaming architecture, integrating Apache Kafka for data ingestion, the River library for online machine learning, and drift detection algorithms from the CapyMOA family to ensure continuous model adaptation.
 
 ---
